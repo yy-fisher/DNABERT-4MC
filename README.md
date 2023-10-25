@@ -9,3 +9,5 @@ Datapreprocessing_ The test.py file shows how we handle the source test dataset
 The Datasets folder dataset contains the most primitive dataset.
 
 Feature_ The Coding folder contains the encoding method used.
+
+Due to size limitations, the pre trained model DNABert-pruning will be uploaded to huggingface in the future. Stay tuned.
