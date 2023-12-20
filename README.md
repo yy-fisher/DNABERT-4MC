@@ -11,3 +11,6 @@ The Datasets folder dataset contains the most primitive dataset.
 Feature_ The Coding folder contains the encoding method used.
 
 Due to size limitations, the pre trained model DNABert-pruning will be uploaded to huggingface in the future. Stay tuned.
+
+#supplement
+Pruning pretraining model weight download link：https://drive.google.com/drive/folders/1M2anyOO2lkG_50DSntL3DIQ-316cglQ5
